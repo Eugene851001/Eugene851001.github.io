@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4bf6f8b.css",
+    "main.js": "/static/js/main.d137151b.js",
+    "static/js/453.397c7ab3.chunk.js": "/static/js/453.397c7ab3.chunk.js",
+    "static/media/RookLevel.png": "/static/media/RookLevel.703586f411734311e9e1.png",
+    "static/media/CompanyLogo.jpg": "/static/media/CompanyLogo.84dbea87291425578d47.jpg",
+    "static/media/question-mark.png": "/static/media/question-mark.7fc68cd2645058695765.png",
+    "index.html": "/index.html",
+    "main.c4bf6f8b.css.map": "/static/css/main.c4bf6f8b.css.map",
+    "main.d137151b.js.map": "/static/js/main.d137151b.js.map",
+    "453.397c7ab3.chunk.js.map": "/static/js/453.397c7ab3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4bf6f8b.css",
+    "static/js/main.d137151b.js"
+  ]
+}
